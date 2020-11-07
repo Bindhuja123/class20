@@ -17,7 +17,7 @@ function setup() {
 function draw() {
   background(0,0,0);  
   //movingRect.x = World.mouseX;
-// movingRect.y = World.mouseY;
+
 
  bounceOff(movingRect,fixedRect);
 
